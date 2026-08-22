@@ -19,14 +19,14 @@
 
 ---
 
-<p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=TalesGiovanini&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=22D3EE&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas públicas do GitHub de Tales Giovanini" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGiovanini&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Linguagens públicas mais utilizadas" />
-</p>
+## Access governance // profile console
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalesGiovanini&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=F59E0B&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="Sequência pública de contribuições" />
-</p>
+| `01` CONTEXTO | `02` ENTREGA | `03` PRINCÍPIO |
+| --- | --- | --- |
+| IAM Brasil · Technical Lead | IAM, SoD e automação local | Evidência antes de conclusão |
+| Governança de acessos | Matrizes, diagnósticos e rastreabilidade | O que não é comprovado vira pendência |
+
+> **Status do portfólio:** público, com dados sintéticos e aberto a colaboração. Os projetos em destaque estão fixados logo abaixo deste painel.
 
 ## Meu painel de trabalho
 
@@ -73,4 +73,3 @@
 <p align="center">
   <i>Construindo soluções onde segurança, clareza e automação trabalham juntas.</i>
 </p>
-
