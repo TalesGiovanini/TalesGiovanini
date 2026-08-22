@@ -22,6 +22,11 @@
     <path d="M1010 0V560M1080 0V560M1150 0V560M1220 0V560"/>
     <path d="M900 90H1280M900 160H1280M900 230H1280"/>
   </g>
+  <g transform="translate(1030 44)">
+    <rect width="174" height="34" rx="17" fill="#061B3E" fill-opacity="0.38" stroke="#B7F8FF" stroke-opacity="0.45"/>
+    <circle cx="22" cy="17" r="5" fill="#72F4FF"/>
+    <text x="38" y="22" fill="#DDFDFF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">PUBLIC PORTFOLIO</text>
+  </g>
   <g transform="translate(62 58)">
     <rect width="70" height="70" rx="22" fill="#FFFFFF" fill-opacity="0.15" stroke="#B7F8FF" stroke-opacity="0.65"/>
     <path d="M35 15C22 15 12 25 12 38c0 15 11 24 23 30 12-6 23-15 23-30C58 25 48 15 35 15Z" stroke="#72F4FF" stroke-width="4"/>
@@ -37,27 +42,41 @@
     <rect x="932" y="224" width="286" height="250" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.24"/>
   </g>
   <g font-family="Arial, sans-serif">
+    <circle cx="103" cy="290" r="4" fill="#72F4FF"/>
     <text x="88" y="267" fill="#73F3FF" font-size="14" font-weight="700" letter-spacing="1.8">FOCO</text>
     <text x="88" y="310" fill="#FFFFFF" font-size="28" font-weight="700">IAM · IGA · PAM</text>
     <text x="88" y="346" fill="#DDEBFF" font-size="17">Governança de identidades</text>
     <text x="88" y="372" fill="#DDEBFF" font-size="17">e acessos com contexto.</text>
     <path d="M88 420H280" stroke="#72F4FF" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="393" cy="290" r="4" fill="#FFD871"/>
     <text x="378" y="267" fill="#FFD871" font-size="14" font-weight="700" letter-spacing="1.8">RISCO</text>
     <text x="378" y="310" fill="#FFFFFF" font-size="28" font-weight="700">SoD &amp; SAT</text>
     <text x="378" y="346" fill="#DDEBFF" font-size="17">Matrizes funcionais,</text>
     <text x="378" y="372" fill="#DDEBFF" font-size="17">conflitos e tratativas.</text>
     <path d="M378 420H570" stroke="#FFD871" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="683" cy="290" r="4" fill="#B5FF86"/>
     <text x="668" y="267" fill="#B5FF86" font-size="14" font-weight="700" letter-spacing="1.8">MÉTODO</text>
     <text x="668" y="310" fill="#FFFFFF" font-size="28" font-weight="700">Evidência</text>
     <text x="668" y="346" fill="#DDEBFF" font-size="17">Sem suposições:</text>
     <text x="668" y="372" fill="#DDEBFF" font-size="17">o que não prova, pendência.</text>
     <path d="M668 420H860" stroke="#B5FF86" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="973" cy="290" r="4" fill="#D1B5FF"/>
     <text x="958" y="267" fill="#D1B5FF" font-size="14" font-weight="700" letter-spacing="1.8">CONSTRUÇÃO</text>
     <text x="958" y="310" fill="#FFFFFF" font-size="28" font-weight="700">Automação</text>
     <text x="958" y="346" fill="#DDEBFF" font-size="17">Python, dados e fluxos</text>
     <text x="958" y="372" fill="#DDEBFF" font-size="17">locais, auditáveis e úteis.</text>
     <path d="M958 420H1150" stroke="#D1B5FF" stroke-width="7" stroke-linecap="round"/>
   </g>
-  <text x="62" y="526" fill="#D4F8FF" font-family="Arial, sans-serif" font-size="16">portfólio técnico · projetos com dados sintéticos · colaboração aberta</text>
+  <g transform="translate(62 498)">
+    <rect width="1156" height="38" rx="12" fill="#061B3E" fill-opacity="0.32" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="18" y="25" fill="#72F4FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">01</text>
+    <text x="48" y="25" fill="#E6FBFF" font-family="Arial, sans-serif" font-size="13">bases e contexto</text>
+    <text x="292" y="25" fill="#FFD871" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">02</text>
+    <text x="322" y="25" fill="#E6FBFF" font-family="Arial, sans-serif" font-size="13">análise e risco</text>
+    <text x="536" y="25" fill="#B5FF86" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">03</text>
+    <text x="566" y="25" fill="#E6FBFF" font-family="Arial, sans-serif" font-size="13">decisão rastreável</text>
+    <text x="880" y="25" fill="#D1B5FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">●</text>
+    <text x="903" y="25" fill="#E6FBFF" font-family="Arial, sans-serif" font-size="13">dados sintéticos · colaboração aberta</text>
+  </g>
 </svg>
 
