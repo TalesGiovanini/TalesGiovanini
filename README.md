@@ -19,6 +19,15 @@
 
 ---
 
+<p align="center">
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=TalesGiovanini&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=22D3EE&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas públicas do GitHub de Tales Giovanini" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGiovanini&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Linguagens públicas mais utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalesGiovanini&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=F59E0B&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="Sequência pública de contribuições" />
+</p>
+
 ## Meu painel de trabalho
 
 | Foco | Como eu trabalho |
@@ -36,6 +45,23 @@
 ▸ Simulações seguras, sem dados de clientes
 ▸ Documentação direta para quem quer entender, usar ou contribuir
 ```
+
+## Stack que uso para transformar dados em decisão
+
+<p>
+  <img src="https://img.shields.io/badge/IAM-0D1117?style=for-the-badge&amp;logo=keycloak&amp;logoColor=22D3EE" alt="IAM" />
+  <img src="https://img.shields.io/badge/SoD-0D1117?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=F59E0B" alt="SoD" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=58A6FF" alt="Python" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=3FB950" alt="Excel" />
+  <img src="https://img.shields.io/badge/Automação-0D1117?style=for-the-badge&amp;logo=githubactions&amp;logoColor=22D3EE" alt="Automação" />
+</p>
+
+## Projetos em destaque
+
+| Projeto | O que demonstra |
+| --- | --- |
+| [Governança SoD &amp; SAT](https://github.com/TalesGiovanini/iam-brasil-governanca-sod-sat) | Aplicação local e rastreável para conciliar bases e orientar a análise de Matriz Funcional, SoD e SAT. |
+| [Simulação SoD &amp; SAT](https://github.com/TalesGiovanini/iam-sod-sat-demo) | Demonstração visual com dados sintéticos, preparada para apresentar o raciocínio de negócio sem expor dados de clientes. |
 
 ## Princípios que guiam minhas entregas
 
