@@ -13,12 +13,12 @@
 
 <h3 align="center">👨‍💻 Perfil & Foco</h3>
 
-`	ext
+```text
 Atuação     ❯ IAM, Segregação de Funções (SoD) e Sensitive Access Transactions (SAT).
 Engenharia  ❯ Criação de ferramentas locais, determinísticas e auditáveis para conciliação de bases.
 Princípios  ❯ Local-first, Menor Privilégio, Zero Lock-in de Nuvem, Resultados rastreáveis.
 Stack Base  ❯ Python 3.12+, SQLite, manipulação de dados em planilhas heterogêneas.
-`
+```
 
 ---
 
@@ -35,8 +35,8 @@ Stack Base  ❯ Python 3.12+, SQLite, manipulação de dados em planilhas hetero
 <h3 align="center">📊 Dashboard de Atividade</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalesGiovanini&show_icons=true&theme=onedark&hide_border=true&v=2026" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGiovanini&layout=compact&theme=onedark&hide_border=true&v=2026" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalesGiovanini&theme=github_dark" height="180" alt="Estatísticas do perfil GitHub de Tales Giovanini" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalesGiovanini&theme=github_dark" height="180" alt="Linguagens por repositório no GitHub de Tales Giovanini" />
 </p>
 
 <p align="center">
