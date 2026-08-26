@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TalesGiovanini/iam-brasil-governanca-sod-sat/main/docs/assets/logo_iam_brasil.png" width="350" />
+
 
 <br/>
 
@@ -48,7 +48,7 @@ Linguagem principal → Python 3.12+
 
 ## Projetos em destaque
 
-### 🔐 [IAM Brasil | Governança SoD & SAT](https://github.com/TalesGiovanini/iam-brasil-governanca-sod-sat)
+### 🔐 [Governança SoD & SAT](https://github.com/TalesGiovanini/iam-brasil-governanca-sod-sat)
 
 > Plataforma local de análise de Segregação de Funções e Sensitive Access Transactions.
 
@@ -108,3 +108,4 @@ Python · SQLite · YAML · argparse
 *"Ferramentas boas não pedem permissão para funcionar."*
 
 </div>
+
