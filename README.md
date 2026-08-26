@@ -35,12 +35,12 @@ Stack Base  ❯ Python 3.12+, SQLite, manipulação de dados em planilhas hetero
 <h3 align="center">📊 Dashboard de Atividade</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalesGiovanini&show_icons=true&theme=onedark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGiovanini&layout=compact&theme=onedark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalesGiovanini&show_icons=true&theme=onedark&hide_border=true&v=2026" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGiovanini&layout=compact&theme=onedark&hide_border=true&v=2026" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalesGiovanini&theme=onedark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=TalesGiovanini&theme=onedark&hide_border=true" height="150" />
 </p>
 
 ---
